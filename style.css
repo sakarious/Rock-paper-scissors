@@ -125,6 +125,22 @@ div > button:hover {
   background: #292c34;
 }
 
+.resetButton {
+  background-color: #f49f1c;
+  color: white;
+  font-family: Asap, sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.resetButton:hover {
+  cursor: pointer;
+  background: #292c34;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
