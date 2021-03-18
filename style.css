@@ -120,6 +120,11 @@ div > button {
   border-radius: 5px;
 }
 
+div > button:hover {
+  cursor: pointer;
+  background: #292c34;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
