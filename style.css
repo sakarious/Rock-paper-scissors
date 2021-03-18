@@ -109,7 +109,7 @@ header > h1 {
   margin: 15px;
 }
 
-div > button {
+/* div > button {
   background-color: #f49f1c;
   color: white;
   font-family: Asap, sans-serif;
@@ -118,12 +118,7 @@ div > button {
   padding: 10px;
   border: 0px;
   border-radius: 5px;
-}
-
-div > button:hover {
-  cursor: pointer;
-  background: #292c34;
-}
+} */
 
 .resetButton {
   background-color: #f49f1c;
@@ -168,4 +163,9 @@ footer > p > a {
   padding: 3px;
   border: 0px;
   border-radius: 5px;
+}
+
+#sakarious:hover {
+  cursor: pointer;
+  background: #292c34;
 }
